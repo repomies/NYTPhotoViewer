@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
     ss.dependency 'NYTPhotoViewer/Core'
     ss.dependency 'PINRemoteImage/iOS', '~> 3.0.0'
-    ss.dependency 'PINRemoteImage/PINCache', :git => 'https://github.com/pinterest/PINCache.git'
+    #ss.dependency 'PINRemoteImage/PINCache', :git => 'https://github.com/pinterest/PINCache.git'
   end
 
 end
